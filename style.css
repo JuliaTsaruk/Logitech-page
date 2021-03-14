@@ -452,12 +452,15 @@ body{
 
     .comfort__image{
         height: 549px;
-        width: 100%;
     }
 
     .comfort__paragraph2{
         width: 756px;
         padding: 4px 0 50px 0;
+    }
+
+    .comfort__image2{
+        height: 549px;
     }
     
     /*footer section*/
